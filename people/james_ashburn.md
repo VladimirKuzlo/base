@@ -1,5 +1,5 @@
 ## Personal data
-![james ashburn photo](photo/james_ashburn.png)  
+![james ashburn photo](photo/james_ashburn.PNG)  
 Name: James Ashburn  
 Location: Australia
 ## Projects 
