@@ -1,7 +1,7 @@
 ## Overview
 ![logo](../projects/logo/veredictum.png)  
 Name: Veredictum 
-[Website](https://https://www.veredictum.io///)  
+[Website](https://www.veredictum.io///)  
 Year founded: 2017  
 Currency: VENT
 ## Staff
