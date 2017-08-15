@@ -116,6 +116,7 @@
 ## U
 * [Ubiq](ubiq.md)
 ## V
+* [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
