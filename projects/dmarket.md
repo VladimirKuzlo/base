@@ -3,7 +3,8 @@
 Name: DMarket  
 [Website](https://dmarket.io/)  
 Year founded: 2017  
-Currency: DMT
+Currency: DMT  
+ICO: Q4 2017
 ## Staff
 Founder & CEO: [Volodymyr Panchenko](../people/volodymyr_panchenko.md)  
 Co-founder: [Alexander Kokhanovskyy](../people/alexander_kokhanovskyy.md)  
