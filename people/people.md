@@ -96,6 +96,7 @@
 * [Jagdeep Sidhu](jagdeep_sidhu.md)
 * [Jake Yocom-Piatt](jake_yocom_piatt.md)
 * [Jani Valjavec](jani_valjavec.md)
+* [James Ashburn](james_ashburn.md)
 * [James Kelly "Coin Server"](james_kelly.md)  
 * [Jarrad Hope](jarrad_hope.md)
 * [Jared Tate](jared_tate.md)
@@ -196,6 +197,7 @@
 * [Ryno Mathee](ryno_mathee.md) 
 ## S
 * [s3v3n h4cks](s3v3n_h4cks.md)  
+* [Sam Brooks](sam_brooks.md) 
 * [Sasha Ivanov](sasha_ivanov.md)
 * [Sahil Baghla](sahil_baghla.md)
 * [Sebastian Stupurac](sebastian_stupurac.md)
@@ -213,6 +215,7 @@
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
 * [Thomas Le](thomas_le.md)
+* [Tim Lea](tim_lea.md)  
 * [Tim M. Zagar](tim_zagar.md)
 * [Tibor Tarabek](tibor_tarabek.md)
 * [Toby Hoenisch](toby_hoenisch.md)
