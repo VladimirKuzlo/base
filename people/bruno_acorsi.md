@@ -8,6 +8,7 @@ Position: Head of Support & CX
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/bruno-figueirerdo-acorsi-36bb2243/)    
 ## About
+Former Head of Support at Accenture.  
 •	5 years of experience in leading SAP and NON SAP T1 Help desk projects
 o	Transitioned and setup projects for LATAM, EMEA and US including 
 documentation and KTs.  
