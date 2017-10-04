@@ -12,7 +12,16 @@ SVP & Board Member: [David Garcia](../people/david_garcia.md)
 Compliance Officer: [Luciana Gruszeczka](../people/luciana_gruszeczka.md)  
 Head of Operations & Admin: [Andres Fleischer](../people/andres_fleischer.md)  
 Head of Growth & Content: [Juan Mendez](../people/juan_mendez.md)  
-CTO & Lead Blockchain Developer: [Antonio Ceraso](../people/antonio_ceraso.md)
+CTO & Lead Blockchain Developer: [Antonio Ceraso](../people/antonio_ceraso.md)  
+Actuary & Data Scientist: [Eugenio Cocimano](../people/eugenio_cocimano.md)  
+Controller: [Melody Bohn](../people/melody_bohn.md)  
+Head of Support & CX: [Bruno Acorsi](../people/bruno_acorsi.md)  
+Blockchain Developer: [Facundo Rodriguez](../people/facundo_rodriguez.md)  
+Full Stack Developer: [Pablo Lefort](../people/pablo_lefort.md)  
+Smart Contracts Developer: [Agustin Aguilar](../people/agustin_aguilar.md)  
+Advisor: [Sergio Demian Lerner](../people/sergio_demian_lerner.md)  
+Advisor: [Juan Llanos](../people/juan_llanos.md)  
+Advisor: [Jeff Stewart](../people/jeff_stewart.md)  
 ## Business Model
 Ripio Credit Network (“RCN​”) is a protocol based on smart contracts and blockchain
 technology, which brings enhanced transparency and reliability in credit and lending.
