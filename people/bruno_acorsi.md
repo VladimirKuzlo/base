@@ -1,5 +1,5 @@
 ## Personal data
-![bruno acorsi photo](photo/bruno_acorsi.jpg)  
+![bruno acorsi photo](photo/bruno_acorsi.png)  
 Name:   Bruno Acorsi  
 Location: Argentina   
 ## Projects 
