@@ -1,5 +1,5 @@
 ## Personal data
-![florin otto photo](photo/florin_otto.png)  
+![florin otto photo](photo/florin_otto.jpg)  
 Name:   Florin Otto  
 Location: United Kingdom  
 ## Projects 
