@@ -1,5 +1,5 @@
 ## Personal data
-![dragos ilinca photo](photo/dragos_ilinca.png)  
+![dragos ilinca photo](photo/dragos_ilinca.jpg)  
 Name:   Dragos Ilinca  
 Location: Canada  
 ## Projects 
