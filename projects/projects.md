@@ -247,6 +247,7 @@
 * [Minexcoin](minexcoin.md)
 * [MobileGO](mobilego.md) 
 * [Mobius Network](mobius_network.md)
+* [Modex](modex.md)
 * [Modum](modum.md)
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
