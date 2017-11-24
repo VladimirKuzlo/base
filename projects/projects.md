@@ -154,6 +154,7 @@
 * [FLiK](flik.md)
 * [Fluence](fluence.md)
 * [Foodcoin](foodcoin.md)
+* [Foreground](foreground.md)
 * [FortKnoxster](fortknoxster.md)
 * [Fund Yourself Now](fund_yourself_now.md)
 * [FundCoin](fundcoin.md) 
