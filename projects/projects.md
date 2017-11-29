@@ -345,6 +345,7 @@
 * [Snip](snip.md)
 * [Snapup](snapup.md)
 * [Smoke.Network](smoke_network.md)
+* [SocialMedia.Market](socialmedia_market.md)
 * [Soferox](soferox.md)
 * [Solar DAO](solar_dao.md)
 * [Soma](soma.md)
