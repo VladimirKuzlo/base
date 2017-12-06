@@ -4,7 +4,9 @@ Name: Modex
 [Website](https://www.modex.tech/)  
 Year founded: 2017  
 Currency: MDX  
-ICO: TBA
+ICO: TBA  
+## Invest -
+The project tries to solve many problems on several markets instead concentration on certain issue.
 ## Staff
 CEO: [Mihai Ivascu](../people/mihai_ivascu.md)  
 CFO: [Paul Mears](../people/paul_mears.md)  
