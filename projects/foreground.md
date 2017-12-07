@@ -6,6 +6,8 @@ Year founded: 2017
 Currency: DEAL  
 ICO: Start: 28. Nov 2017  
 End: 19. Dec 2017
+## Invest -
+Lack of both information about project and social networks activity.
 ## Staff
 Founder & CEO: [Rick Feiner](../people/rick_feiner.md)  
 Technical Architect: [Shane van Coller](../people/shane_van_coller.md)  
