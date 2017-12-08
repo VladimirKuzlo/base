@@ -4,7 +4,9 @@ Name:   Hansco Leek
 Location: Netherlands  
 ## Projects 
 Name: [DCORP](../projects/dcorp.md)  
-Position: Service Manager   
+Position: Service Manager  
+Name: [Gladius](../projects/gladius.md)  
+Position: Operations Advisor 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/hansco-leek-5bb86210/)    
 ## About
