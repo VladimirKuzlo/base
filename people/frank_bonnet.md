@@ -4,7 +4,9 @@ Name:   Frank Bonnet
 Location: Netherlands  
 ## Projects 
 Name: [DCORP](../projects/dcorp.md)  
-Position: Founder & Lead Developer   
+Position: Founder & Lead Developer  
+Name: [Gladius](../projects/gladius.md)  
+Position: Technical Advisor
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/frank-bonnet-3b890865/)    
 ## About
