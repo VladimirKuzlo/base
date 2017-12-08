@@ -170,6 +170,7 @@
 * [Gilgam.es](gilgames.md)
 * [Gimli](gimli.md)
 * [Gizer](gizer.md)
+* [Gladius](gladius.md)
 * [Globitex](globitex.md)
 * [Gluon](gluon.md)
 * [Gnosis](gnosis.md)
