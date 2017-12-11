@@ -6,6 +6,8 @@ Year founded: 2017
 Currency: Gladius  
 ICO: Start: 24. Nov 2017  
 End: 5. Feb 2018
+## Invest +
+Project tries to solve actual problem by offering new approach using possibilities of blockchain.
 ## Staff
 Co-founder & CEO: [Max Niebylski](../people/max_niebylski.md)  
 Co-founder & CTO: [Alexander Godwin](../people/alexander_godwin.md)  
