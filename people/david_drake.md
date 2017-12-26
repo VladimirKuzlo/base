@@ -10,9 +10,12 @@ Position: Advisor
 Name: [BCShop.io](../projects/bcshop_io.md)  
 Position: Advisor    
 Name: [Cappasity](../projects/cappasity.md)  
-Position: Advisor
+Position: Advisor  
+Name: [SOFIN](../projects/sofin.md)  
+Position: Adviser   
 ## Contacts
-[LinkedIn](https://www.linkedin.com/in/ldjcapital/)    
+[LinkedIn](https://www.linkedin.com/in/ldjcapital/)     
+[Facebook](https://www.facebook.com/DrakeWealthManagement)
 ## About
 David Drake is the Chairman of LDJ Capital, a family office based in NYC; Victoria Partners, LDJ Real Estate Group, Drake Hospitality Group, and
 The Soho Loft Media Group. LDJ Capital's extended network of funds of funds and hedge funds manages 1.5 trillion USD in assets. Mr. Drake has
