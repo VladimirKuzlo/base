@@ -6,6 +6,7 @@ Location: Russian Federation
 Name: [SOFIN](../projects/sofin.md)  
 Position: Chief Blockchain Officer   
 ## Contacts  
-[Facebook](https://www.facebook.com/lushpanov)  
+[Facebook](https://www.facebook.com/lushpanov)   
+[Telegram](https://t.me/octorostov)
 ## About
 Head of research and development department of smart contracts based on blockchain. Entrepreneur with experience in offline/online business projects. Experience in developing Web projects for more than six years. Mining since 2013, has experience in cryptotrading and investment in cryptocurrency.
