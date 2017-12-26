@@ -351,6 +351,7 @@
 * [Snapup](snapup.md)
 * [Smoke.Network](smoke_network.md)
 * [Soferox](soferox.md)
+* [SOFIN](sofin.md)
 * [Solar DAO](solar_dao.md)
 * [Soma](soma.md)
 * [Sosnovkino](sosnovkino.md)
