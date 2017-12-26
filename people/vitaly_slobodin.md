@@ -7,6 +7,7 @@ Name: [SOFIN](../projects/sofin.md)
 Position: Chief Technology Officer   
 ## Contacts  
 [Facebook](https://www.facebook.com/Vitallium)  
-[GitHub](https://github.com/vitallium)
+[GitHub](https://github.com/vitallium)  
+[Telegram](https://t.me/vitallium)
 ## About
 Experience in the development of more than eight years, technical Director in Elonsoft, a member of the Google Chrome team, in the past the maintainer of Phantomjs and the developer of "Yandex. Browser".
