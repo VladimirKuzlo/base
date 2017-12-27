@@ -7,11 +7,13 @@ Currency: QLC
 ICO: Start: 27. Dec 2017  
 End: 27. Jan 2018
 ## Invest - neutral
-- Project with such ambitious goal shoud have has MVP
-- Allowing fiat usage creates concerns about value of QLC tokens  
-- Strong team with relevant experience  
-- Project provides solution that makes sense using benefits of blockchain 
-## Staff
+Positive:  
+Project with such ambitious goal shoud have has MVP  
+Allowing fiat usage creates concerns about value of QLC tokens     
+Negative:  
+Strong team with relevant experience   
+Project provides solution that makes sense using benefits of blockchain  
+## Staff 
 Co-founder & COO: [Susan Zhou](../people/susan_zhou.md)  
 Head of Marketing & PR: [Toya Zhang](../people/toya_zhang.md)  
 Head of Investor Relations: [Roger Lim](../people/roger_lim.md)  
