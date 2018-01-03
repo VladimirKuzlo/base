@@ -6,6 +6,10 @@ Year founded: 2017
 Currency: EVE  
 ICO: Start: 12. Jan 2018  
 End: 10. Feb 2018
+## Invest -
+Competitive area with many projects ahead     
+Inexperienced team       
+Absence of partnerships   
 ## Staff
 Founder & Product Lead: [Andrew Rasheed](../people/andrew_rasheed.md)  
 Community & Finance: [Chironjit Das](../people/chironjit_das.md)  
