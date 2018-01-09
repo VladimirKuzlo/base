@@ -128,6 +128,7 @@
 * [Eidoo](eidoo.md)
 * [easyMINE](easymine.md)
 * [Edgeless](edgeless.md)
+* [Elastos](elastos.md)
 * [Embermine](embermine.md)
 * [Emercoin](emercoin.md)
 * [Empire Card](empire_card.md)
