@@ -16,7 +16,7 @@ HR Director: [Heng Li](../people/heng_li.md)
 Senior Technical Manager: [Shunan Yu](../people/shunan_yu.md)  
 Senior Technical Manager: [Shi Jun Song](../people/shi_jun_song.md)  
 Advisor: [Jihan Wu](../people/jihan_wu.md)  
-Advisor: [Hongfei Da](../people/hongfei_da.md)
+Advisor: [Da Hongfei](../people/da_hongfei.md)
 ## Business Model
 New blockchain with totaly decentralized p2p economic infrastructure with authenticates digital rights, transfers contracts, and turns digital information into assets through blockchain technology. 
 ## Contacts  
