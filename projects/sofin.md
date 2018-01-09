@@ -6,6 +6,8 @@ Year founded: 2010
 Currency: SOFIN  
 ICO: Start: 15. Jan 2018  
 End: 15. Mar 2018
+## Invest -
+There is no real need for blockchain in this project.
 ## Staff
 Chief Executive Officer: [Andrey Tuchkov](../people/andrey_tuchkov.md)  
 Chief Product Officer: [Trofim Zhugastrov](../people/trofim_zhugastrov.md)  
