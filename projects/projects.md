@@ -344,6 +344,7 @@
 * [Sibcoin](sibcoin.md)
 * [SimplyVital Health](simplyvital_health.md)
 * [SingularDTV](singulardtv.md)
+* [Skychain](skychain.md)
 * [Skycoin](skycoin.md)
 * [Smart Investment Fund Token](smart_investment_fund_token.md)
 * [smartRE](smartre.md)
