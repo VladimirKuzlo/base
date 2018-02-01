@@ -380,6 +380,7 @@
 * [TenX](tenx.md)
 * [Tether](tether.md)
 * [Tezos](tezos.md)
+* [The Abyss](the_abyss.md)
 * [Tierion](tierion.md)
 * [Ties Network](ties_network.md)
 * [TokenCard](tokencard.md)
