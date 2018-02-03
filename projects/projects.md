@@ -403,7 +403,8 @@
 * [Verif-y](verif-y.md)
 * [Veritaseum](veritaseum.md)
 * [Viacoin](viacoin.md)
-* [Viberate](viberate.md) 
+* [Viberate](viberate.md)
+* [Viola.AI](viola_ai.md)
 * [vSlice](vslice.md)
 ## X
 * [Xaurum](xaurum.md)
