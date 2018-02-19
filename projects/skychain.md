@@ -6,6 +6,8 @@ Year founded: 2017
 Currency: Skychain  
 ICO: Start: 5. Feb 2018  
 End: 28. Feb 2018
+## Invest -
+Despite interesting idea, the market is highly competitve and team hasn't enough experience 
 ## Staff
 Founder: [Gennady Popov](../people/gennady_popov.md)  
 CTO: [Ivan Svistunov](../people/ivan_svistunov.md)  
