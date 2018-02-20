@@ -255,6 +255,7 @@
 * [MCAP](mcap.md)
 * [MedCredits](medcredits.md)
 * [MediBond](medibond.md)
+* [Metronome](metronome.md)
 * [Minerva](minerva.md)
 * [Minexcoin](minexcoin.md)
 * [Mirocana](mirocana.md)
