@@ -5,6 +5,8 @@ Name: Metronome
 Year founded: 2017  
 Currency: MTN  
 ICO: TBA
+## Invest +
+Interesting vision of next generation cryptocurrency with strong and authoritative team.
 ## Staff
 Co-founder & CEO & Chief Designer: [Jeff Garzik](../people/jeff_garzik.md)  
 Co-founder & Chairman: [Matthew Roszak](../people/matthew_roszak.md)  
