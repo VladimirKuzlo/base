@@ -6,6 +6,8 @@ Year founded: 2008
 Currency: ABYSS  
 ICO: Start: 7. Feb 2018  
 End: 1. Mar 2018
+## Invest +
+Growing market, project has some competitive advantages and experienced team
 ## Staff
 Founder: [Konstantin Boyko-Romanovsky](../people/konstantin_boyko-romanovsky.md)  
 President: [Vladimir Kurochkin](../people/vladimir_kurochkin.md)  
